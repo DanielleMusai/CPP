@@ -6,11 +6,11 @@ When you refer to an index where no value has been placed then NULL is returned.
 
 __________________________________ 
 
- ##### We were asked to implement those functions:
+ #### We were asked to implement those functions:
 
 <img width="596" alt="image" src="https://user-images.githubusercontent.com/92378800/226192264-54ed53b2-ac53-4a72-9dd2-0dc9bb2edd2b.png">
 
- ##### In addition we were asked to run the following commands so that they work without compilation errors,
+ #### In addition we were asked to run the following commands so that they work without compilation errors,
    runtime or memory leaks:
 
    - make demo
@@ -24,4 +24,4 @@ __________________________________
 
 
 
-*I should mention that I used the test of a previous semester in C course in order to arrive at a solution.
+- I should mention that I used the test of a previous semester in C course in order to arrive at a solution.
