@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include "AdptArray.h"
-
+// I should mention that I used the test of the previous semester in C course in order to arrive at a solution
 
 typedef struct AdptArray_
 {
