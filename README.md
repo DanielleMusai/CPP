@@ -13,7 +13,7 @@ __________________________________
 
 
  #### In addition we were asked to run the following commands so that they work without compilation errors,
-   runtime or memory leaks:
+   #### runtime or memory leaks:
 
    - make demo
    - make run
